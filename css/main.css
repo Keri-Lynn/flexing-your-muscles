@@ -24,10 +24,10 @@ img {
   align-items: center;
   padding: 1rem 0;
 
-background-color: #8bc9d9;
-border-top: 3px solid #005e76;
+  background-color: #8bc9d9;
+  border-top: 3px solid #005e76;
 
-color: #005e76;
+  color: #005e76;
 }
 
 .footer h2 {
@@ -51,7 +51,7 @@ color: #005e76;
 }
 
 .social {
-  margin-right: auto;
+  margin-left: auto;
   padding: 0 1rem;
   display: flex;
 }
